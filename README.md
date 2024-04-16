@@ -10,7 +10,7 @@ This project utilizes Streamlit to create a web application that analyzes the se
 - **Search by SubReddit:** Users can specify a subreddit and optionally filter by a keyword to analyze sentiment in posts.
 - **Global Trends:** Offers an overview of the global sentiment towards cryptocurrencies based on the latest posts from selected subreddits.
 
-## Technologies Used
+## Packages Used
 
 - Python
 - Streamlit
